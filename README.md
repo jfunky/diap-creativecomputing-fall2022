@@ -12,7 +12,7 @@ This will be our class homepage, so it may be a good idea to bookmark it.
 #### --
 
 ###### Professor Jasmine Soltani (she/her)
-###### Office hours: [Mondays 6-7pm](https://calendar.google.com/calendar/selfsched?sstoken=UU5zeHE4U25Rc2NHfGRlZmF1bHR8OTIxZDRlNTYwNjBiNTg1Mjg4MmZjYzkwM2ZjYTBhODY) or email me
+###### Office hours: [Mondays 6-7pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5zeHE4U25Rc2NHfGRlZmF1bHR8OTIxZDRlNTYwNjBiNTg1Mjg4MmZjYzkwM2ZjYTBhODY) or email me
 ###### Contact: jsoltani@ccny.cuny.edu
 #### --
 
