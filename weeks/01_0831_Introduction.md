@@ -30,7 +30,7 @@
 * Used to collaborate on code & version control
 * We can use it to post text, links, files
 
-### Drawing
+## Drawing 
 * Environment & Coordinate System
 * createCanvas(width, height)
 * 2D shapes: see [p5.js reference](https://editor.p5js.org/)
@@ -38,8 +38,6 @@
 * fill()
 * console.log()
 * Comments
-
-#### Exercise
 
 ### Variables
 * Use to avoid repetition
@@ -57,10 +55,10 @@
   - Undefined
   - Arrays & Objects
 
-### Resources: 
+## Resources: 
 * P5.js reference: 
-  -[Coordinate System & Shapes](https://p5js.org/learn/coordinate-system-and-shapes.html)
-  -[Curves](https://p5js.org/learn/curves.html)
+  - [Coordinate System & Shapes](https://p5js.org/learn/coordinate-system-and-shapes.html)
+  - [Curves](https://p5js.org/learn/curves.html)
 * Getting Started with P5.js, ch.1-3
 * The Coding Train tutorials:
   - [p5.js web editor](https://www.youtube.com/watch?v=MXs1cOlidWs&feature=youtu.be)
