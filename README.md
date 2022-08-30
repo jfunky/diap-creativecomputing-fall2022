@@ -1,5 +1,5 @@
-# diap-creativecomputing-fa2021
-Class syllabus, schedule, class notes, & assignments for CCNY/CUNY Creative Computing Fall 2021 class.
+# diap-creativecomputing-fa2022
+Class syllabus, schedule, class notes, & assignments for CCNY/CUNY Creative Computing Fall 2022 class.
 
 This will be our class homepage, so it may be a good idea to bookmark it.
 
