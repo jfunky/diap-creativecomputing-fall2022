@@ -30,7 +30,20 @@
 * Used to collaborate on code & version control
 * We can use it to post text, links, files
 
+## Early Computer Art
+* [Radical Software](https://www.radicalsoftware.org/e/index.html)
+* [Artist and Computer](https://www.radicalsoftware.org/e/index.html)
+
+### Net Art
+* [Rhizome ArtBase](https://artbase.rhizome.org/wiki/Main_Page)
+* [Cameronsworld.net](https://artbase.rhizome.org/wiki/Main_Page)
+* [Young-Hae Chang Flash Poetry](https://yhchang.com/)
+* [Jodi](http://wwwwwwwww.jodi.org/)
+* [Simple Net Art Diagram](http://www.mteww.com/images/netartdiagram.gif)
+
+
 ## Drawing 
+* Sketches & sketching in p5.js
 * Environment & Coordinate System
 * createCanvas(width, height)
 * 2D shapes: see [p5.js reference](https://editor.p5js.org/)
@@ -70,5 +83,11 @@
   - Learning Processing, ch.1-2
   - Programming Design Systems [Shape: Basic Shapes](https://programmingdesignsystems.com/shape/basic-shapes/index.html#basic-shapes-bOYdIDj)
   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+## Assignment
+* Create your own geometric landscape using the p5.js web editor
+* Create a github account
+* We will post to the homework wiki together at the beginning of next class
   
   
