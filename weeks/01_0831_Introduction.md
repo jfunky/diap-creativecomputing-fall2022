@@ -87,6 +87,7 @@
 
 ## Assignment
 * Create your own geometric landscape using the p5.js web editor
+  - Stretch: implement a function from the p5 reference we didn't talk about in class
 * Create a github account
 * We will post to the homework wiki together at the beginning of next class
   
