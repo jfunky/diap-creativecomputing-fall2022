@@ -5,8 +5,8 @@
 * [Processing](https://processing.org/)
 * [OpenFrameworks](https://openframeworks.cc/)
 * [Max/MSP](https://cycling74.com/)
-* [Touchdesigner](https://processing.org/)
-* [Arduino](https://derivative.ca/)
+* [Touchdesigner](https://derivative.ca/)
+* [Arduino](https://www.arduino.cc/)
 
 #### Open Source
 * FLOSS (Free/Libre Open Source Software) refers to licensing
@@ -32,11 +32,11 @@
 
 ## Early Computer Art
 * [Radical Software](https://www.radicalsoftware.org/e/index.html)
-* [Artist and Computer](https://www.radicalsoftware.org/e/index.html)
+* [Artist and Computer](Cameronsworld.net)
 
 ### Net Art
 * [Rhizome ArtBase](https://artbase.rhizome.org/wiki/Main_Page)
-* [Cameronsworld.net](https://artbase.rhizome.org/wiki/Main_Page)
+* [Cameronsworld.net](Cameronsworld.net)
 * [Young-Hae Chang Flash Poetry](https://yhchang.com/)
 * [Jodi](http://wwwwwwwww.jodi.org/)
 * [Simple Net Art Diagram](http://www.mteww.com/images/netartdiagram.gif)
