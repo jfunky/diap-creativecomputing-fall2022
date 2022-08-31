@@ -81,7 +81,7 @@ Additional resources:
 * [Arduino Playground](https://playground.arduino.cc/uploads/Main/arduino_comic_v0004.pdf)
 * [Physical Computing Reference](https://github.com/jfunky/physical-computing-reference/blob/master/README.md)
 
-Any reading required for a particular week will be clearly stated in the homework section of the [weekly schedule](https://github.com/jfunky/diap-creativecomputing-fa2021/blob/main/Schedule.md).
+Any reading required for a particular week will be clearly stated in the homework section for [that week](https://github.com/jfunky/diap-creativecomputing-fall2022/tree/main/weeks).
 
 ## Grading & Attendance Policy
 ### Grade Breakdown:
@@ -89,7 +89,7 @@ Any reading required for a particular week will be clearly stated in the homewor
 * Participation: 25%
 * Final project: 20%
 
-There is no attendance policy: please communicate if you will miss a class sessions. Follow the schedule and assignments for the week & submit your work and feedback to classmates via other channels.
+There is no attendance policy: please communicate if you will miss a class session. Follow the schedule and assignments for the week & submit your work and feedback to classmates via other channels.
 
 ### Academic Accommodations
 If you are a student with a disability requesting accommodations, please contact [The AccessAbility Center/Student Disability Services (AAC/SDS)](https://www.ccny.cuny.edu/accessability). For more information, included here are links to [examples of academic adjustments and auxiliary aids](https://www.ccny.cuny.edu/accessability/academic-adjustments-auxiliary-aids), information about [registering with AAC/SDS](https://www.ccny.cuny.edu/accessability/register), and [forms](https://www.ccny.cuny.edu/accessability/forms). 
