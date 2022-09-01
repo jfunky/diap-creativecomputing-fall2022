@@ -69,6 +69,8 @@
   - Arrays & Objects
 
 ## Resources: 
+* Shapes sketch from class: https://editor.p5js.org/jfunky/sketches/napTej_9Q
+* Circle from class: https://editor.p5js.org/jfunky/sketches/hKyYJXkLk
 * P5.js reference: 
   - [Coordinate System & Shapes](https://p5js.org/learn/coordinate-system-and-shapes.html)
   - [Curves](https://p5js.org/learn/curves.html)
