@@ -13,7 +13,7 @@
 
 - [Astro Noise](https://www.artsy.net/show/whitney-museum-of-american-art-1-laura-poitras-astro-noise?sort=partner_show_position), Laura Poitras
 - [net.flag](https://www.guggenheim.org/artwork/10703), Mark Napier
-- [Glyphiti](http://artcontext.net/glyphiti/docs/about.html), andy deck'
+- [Glyphiti](http://artcontext.net/glyphiti/docs/about.html), andy deck
 - [MILKproject](https://www.polakvanbekkum.com/done/major-gps-projects/milk-project/), Esther Polak, Ieva Auzina, Marcus The
 - [Zoom Escaper](https://lav.io/projects/zoom-escaper/), Sam Lavigne
 
