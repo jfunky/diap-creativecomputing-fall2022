@@ -66,7 +66,7 @@
   - [Debugging](https://p5js.org/learn/debugging.html)
 - Getting Started with P5.js ch.4
 - The Coding Train tutorials:
-  - [Varibles Part 1](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
+  - [Variables Part 1](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
   - [Variables Part 2](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
   - [Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc)
 - Learning Processing, ch.3-4
