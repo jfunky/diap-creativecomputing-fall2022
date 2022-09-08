@@ -109,17 +109,17 @@ The City College Faculty Senate has approved a procedure for addressing violatio
 
 ## Schedule
 * August 31: [Week 1 - Introduction](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/01_0831_Introduction.md)  
-* September 7: [Week 2 - Interaction and Color](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/02_0907_Interaction_Color.md)    
-* September 14: [Week 3 - Conditionals](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/03_0914_Conditionals.md)  
-* September 21: [Week 4 - Functions](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/04_0921_Functions.md)  
-* September 28: [Week 5 - Objects](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/05_0928_Objects.md)  
+* September 7: [Week 2 - Interaction and Color](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/02_0907_Interaction_Color.md) 
+* September 14: [Week 3 - Conditionals](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/03_0914_Conditionals.md)  
+* September 21: [Week 4 - Functions](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/04_0921_Functions.md)  
+* September 28: [Week 5 - Objects](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/05_0928_Objects.md)  
 * *No Class October 5*    
-* October 12: [Week 6 - DOM](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/06_1012_DOM.md)   
-* October 19: [Week 7 - Arduino](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/07_1019_Arduino.md)   
-* October 26: [Week 8 - Digital IO](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/08_1026_DigitalIO.md)   
-* November 2: [Week 9 - Analog IO](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/09_1102_AnalogIO.md)   
-* November 9: [Week 10 - Arduino + P5.js](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/10_1109_Arduino+p5js.md)   
-* November 16: [Week 11 - Power](https://github.com/jfunky/diap-creativecomputing-fa2022/blob/main/weeks/11_1116_Power.md)   
+* October 12: [Week 6 - DOM](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/06_1012_DOM.md)   
+* October 19: [Week 7 - Arduino](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/07_1019_Arduino.md)   
+* October 26: [Week 8 - Digital IO](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/08_1026_DigitalIO.md)   
+* November 2: [Week 9 - Analog IO](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/09_1102_AnalogIO.md)   
+* November 9: [Week 10 - Arduino + P5.js](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/10_1109_Arduino+p5js.md)   
+* November 16: [Week 11 - Power](https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/weeks/11_1116_Power.md)   
 * *November 23: Virtual meetings*  
 * November 30: Workshop  
 * December 7: Workshop  
