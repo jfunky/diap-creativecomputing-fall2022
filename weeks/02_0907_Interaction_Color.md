@@ -6,8 +6,8 @@
 - Early techno-utopian vision of the internet as democratic, accessible, global (obviating borders)
   - Early social networks and community discussion boards
 - 90's & 00's in this realm demystified the internet, how hyperlinks work, explored global information networks
-- Also: progressively more tools for government & corporate survellance and re: the internet, the consolidation of search, media, news into fewer companies
-- "The War on Terror" and subsequent revelations of the states' expanded surveillance powers has broadened the discource around data privacy rights, which is now a major area of focus among artists, activists, journalists, legislators
+- Also: progressively more tools for government & corporate surveillance and re: the internet, the consolidation of search, media, news into fewer companies
+- "The War on Terror" and subsequent revelations of the states' expanded surveillance powers has broadened the discourse around data privacy rights, which is now a major area of focus among artists, activists, journalists, legislators
 
 #### Art
 
@@ -59,6 +59,7 @@
 
 ## Resources
 
+- [Class examples](https://editor.p5js.org/jfunky/collections/oZNPWRLyJ)
 - P5.js reference:
   - [Interactivity](https://p5js.org/learn/interactivity.html)
   - [Color](https://p5js.org/learn/color.html)
