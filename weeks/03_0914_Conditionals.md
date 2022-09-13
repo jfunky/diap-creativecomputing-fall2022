@@ -7,7 +7,7 @@
 - Fiction & non-fiction
 - Text-based games & text adventures
 - Can leverage natural language processing for generative text
-- [Twine](https://twinery.org/))Open Source platform for non-linear, interactive stories
+- [Twine](https://twinery.org/) is an Open Source platform for non-linear, interactive stories
 
 #### Art
 
