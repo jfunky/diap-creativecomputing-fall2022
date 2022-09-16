@@ -46,6 +46,7 @@
 
 ## Resources
 
+- [Class examples](https://editor.p5js.org/jfunky/collections/lSAa22PZD)
 - Getting Started With p5.js, ch.4-5, 7 (fonts & text)
 - The Coding Train tutorials:
   - [Conditionals Part 1](https://www.youtube.com/watch?v=1Osb_iGDdjk)
