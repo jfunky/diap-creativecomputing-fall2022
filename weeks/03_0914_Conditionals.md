@@ -29,7 +29,11 @@
 
 #### Logical Operators
 - [&& and](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
+  - If {expression 1} && {expression 1} are **both** true, the statement is true
+  - If **either** is false, the statement is false
 - [|| or](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
+  - If **either** {expression 1} || {expression 1} are true, the statement is true
+  - If **both** statements are false, the statement is false
 
 #### Loops
 
