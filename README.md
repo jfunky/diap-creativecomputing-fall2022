@@ -36,7 +36,7 @@ Please refer to [The City College of New York COVID-19 Safety Plan for Fall '22]
 * Workshop: Exercises related to the weekly topic
 * Assignments: At-home practice of skills from class with your own twist
 
-Class materials will be documented on this github. Text references, class notes & code will be included in the link for [each week](https://github.com/jfunky/diap-creativecomputing-fa2022/tree/master/weeks). Asynchronous participation will be possible through this class github, the class discussion channel, and office hours. 
+Class materials will be documented on this github. Text references, class notes & code will be included in the link for [each week](https://github.com/jfunky/diap-creativecomputing-fall2022/tree/main/weeks). Asynchronous participation will be possible through this class github, the class discussion channel, and office hours. 
 
 ### Github/Blog
 Homework & exercises can be submitted on Github or your personal blog. 
