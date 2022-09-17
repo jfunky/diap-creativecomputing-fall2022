@@ -27,6 +27,10 @@
 - if/else used together can have some efficiencies
 - Combining variables with conditional statements: this may seem trivial but comes will challenge you to understand order of operations in your program, when to create a new variable, understanding and planning ahead for what needs to vary and where you should update a value
 
+#### Logical Operators
+- [&& and](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
+- [|| or](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
+
 #### Loops
 
 - The draw loop is one way to incorporate temporal repetition that you can take advantage of
