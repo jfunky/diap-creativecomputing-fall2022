@@ -41,6 +41,7 @@
     - [Loading and Playing Sound](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
 
 ## Assignment
-Pick one:
-- Refactor a previous assignment using the abstraction & modularity methods we've been covering (variables, loops, functions).
-- Define at least one function and use it in a loop. Use iterations in the loop to vary the arguments to your function.
+- Pick one:
+    - Refactor a previous assignment using the abstraction & modularity methods we've been covering (variables, loops, functions).
+    - Define at least one function and use it in a loop. Use iterations in the loop to vary the arguments to your function.
+- Add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fall2022/wiki/Homework).
