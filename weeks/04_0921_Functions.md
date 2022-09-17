@@ -5,6 +5,7 @@
 - [bgsound](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/bgsound) html element (deprecated)
 - [embed](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed) html element for multimedia
 - Adobe Flash Player [(deprecated)](https://www.adobe.com/products/flashplayer/end-of-life-alternative.html) allowed for more precise manipulation of sound
+- [audio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio) html tag provides native support for audio playback in all modern browsers (with limitations around precise timing, real-time effects, sound analysis)
 - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) allows for loading & manipulating sound files without using plugins, as well as more complex sound processing
 
 #### References
