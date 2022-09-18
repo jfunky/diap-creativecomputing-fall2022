@@ -28,11 +28,13 @@
 - Parameters provide flexibility, based on where you want to add variation in your function
 - Parameters are variables created when the function runs
 - You can use functions to return a value to the main program
-- Like with variables, function names should be unique and descriptive
+- Like with variables, function names should be unique (not a name already in use by another function) and descriptive
 
 #### Loading & Playing Sound
 - [loadSound()](https://p5js.org/reference/#/p5/loadSound)
 - filesize limited in the p5.js web editor is 5MB
+- Javascript is asynchronous. A lot of the code we've run so far has been synchronous, which means it executes in order. However, in some cases javascript will continue executing code that follows, even when code earlier in the program hasn't completed executing yet. You might notice this when you are loading images, video, sound files, or data files. To make sure the media/files have loaded by the time you use them, you can load them in the preload function rather than in setup.
+- Another way to handle asynchronicity is by using a callback function. The function passed through as a parameter is not executed right away. Instead, it is called once some work is done or a relevant event happens.
 
 ## Resources
 - Getting Started With p5.js, ch.9, ch.7 (Media)
