@@ -37,6 +37,7 @@
 - Another way to handle asynchronicity is by using a callback function. The function passed through as a parameter is not executed right away. Instead, it is called once some work is done or a relevant event happens.
 
 ## Resources
+- [Class examples](https://editor.p5js.org/jfunky/collections/lOc5D2DXq)
 - Getting Started With p5.js, ch.9, ch.7 (Media)
 - The Coding Train 
     - [Functions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials
