@@ -41,6 +41,7 @@
 
 ## Resources
 
+- [Class examples](https://editor.p5js.org/jfunky/collections/BIfWzY3Kb)
 - The Coding Train
   - [Object Oriented Programming](https://www.youtube.com/watch?v=xG2Vbnv0wvg&feature=youtu.be)
   - [Classes](https://www.youtube.com/watch?v=T-HGdc8L-7w)
