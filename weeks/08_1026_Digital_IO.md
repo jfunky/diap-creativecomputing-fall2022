@@ -22,14 +22,20 @@
   - It prevents a "floating ground", which is when there is no electrical connection to ground
   - It creates a path of resistance when the circuit is closed, so the arduino can read the voltage
 
-#### Circuits
+## In-class Circuits
 - [Working with an LED and a push button](https://create.arduino.cc/projecthub/SBR/working-with-an-led-and-a-push-button-71d8c1)
 - [Digital Input Pull-Up Resistor](https://docs.arduino.cc/tutorials/generic/digital-input-pullup)
 - Arduino Code: [Control an LED with a button](https://create.arduino.cc/editor/jfunky7/b8a53f0d-396b-4fee-a31d-438140557e3f/preview)
 
+<p align="center">
+  <img width="800" src="https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/assets/week8_DigitalIO/LED_switch.png">
+</p>
 
 #### Program 2 LEDs
 
+<p align="center">
+  <img width="800" src="https://github.com/jfunky/diap-creativecomputing-fall2022/blob/main/assets/week8_DigitalIO/2LED_switch.png">
+</p>
 
 ## [Serial communication](https://www.arduino.cc/reference/en/language/functions/communication/serial/)
 - A common way that computers send data over a communication channel
