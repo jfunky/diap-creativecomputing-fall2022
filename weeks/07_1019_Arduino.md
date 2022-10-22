@@ -160,6 +160,7 @@ R = 165Ω
   - [Soldering](https://itp.nyu.edu/physcomp/Labs/Soldering/)
 - [Tutorials & Circuit diagrams for Arduino Built-In Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples) including [Blink](https://www.arduino.cc/en/Tutorial/Blink)
 - Ohm's Law & Measurement:
+  - [Sparkfun tutorial](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/all)
   - [ITP Video: LED Current](https://vimeo.com/showcase/2801639/video/78674965)
   - [ITP Video: Measuring Current, Resistance, Conntinuity](https://vimeo.com/showcase/2801639/video/87215804)
   - [LED Resistor Calculator](https://www.google.com/url?q=https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor&sa=D&source=editors&ust=1666151072946454&usg=AOvVaw20ZlYisobmXpjFU-E-fcPU)
