@@ -13,7 +13,7 @@
 - When we configure Arduino pins as inputs, it is important to use a pulldown (connected to ground) or pullup (connected to V+) resistor. This does a few things: 
   - It protects your circuit from a short 
   - It prevents a "floating ground", which is when there is no electrical connection to ground 
-  - (3) It creates a path of resistance when the circuit is closed, so the arduino can read the voltage.
+  - It creates a path of resistance when the circuit is closed, so the arduino can read the voltage.
 - In order to see the values you're receiving with Arduino, use the Serial Monitor. In addition to introduce the serial monitor, the link shows how to include Serial.begin in your setup() function and Serial.println() in your loop in order to print digital values.
 
 #### Reading & Writing Digital Signals
