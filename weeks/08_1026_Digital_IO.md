@@ -53,14 +53,21 @@ eg. <br>
 
 
 ## Resources: 
-  - Arduino References:
-    - [Digital Pins](https://www.arduino.cc/en/Tutorial/Foundations/DigitalPins)
-    - [Arduino Variables](https://www.arduino.cc/en/Reference/VariableDeclaration)
-  - ITP Tutorials:
-    -  [Digital Input & Output](https://itp.nyu.edu/physcomp/lessons/digital-input-output/)
-    -  [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/)
-    -  [Interpretting Serial Data](https://itp.nyu.edu/physcomp/lessons/interpreting-serial-data/)
-  - ITP Videos:
-    -  [Digital Input](https://vimeo.com/86548673)
-    -  [Digital Output](https://vimeo.com/86534049)
-    -  [Schematics](https://itp.nyu.edu/physcomp/videos/videos-schematic-diagrams/)
+- Arduino References:
+  - [Digital Pins](https://www.arduino.cc/en/Tutorial/Foundations/DigitalPins)
+  - [Arduino Variables](https://www.arduino.cc/en/Reference/VariableDeclaration)
+- ITP Tutorials:
+  -  [Digital Input & Output](https://itp.nyu.edu/physcomp/lessons/digital-input-output/)
+  -  [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/)
+  -  [Interpretting Serial Data](https://itp.nyu.edu/physcomp/lessons/interpreting-serial-data/)
+- ITP Videos:
+  -  [Digital Input](https://vimeo.com/86548673)
+  -  [Digital Output](https://vimeo.com/86534049)
+  -  [Schematics](https://itp.nyu.edu/physcomp/videos/videos-schematic-diagrams/)
+
+
+## Homework
+Complete one of the following:
+- Modify the Arduino code from class and the 2 LEDs + switch circuit to create some new behavior
+- [CIRC07: Button Pressing project](https://learn.adafruit.com/experimenters-guide-for-metro/circ07-intro) from the MetroX kit
+
