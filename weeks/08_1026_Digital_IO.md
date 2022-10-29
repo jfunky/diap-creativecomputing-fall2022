@@ -10,11 +10,7 @@
 - Electricity as power vs. electronics as signal: With some logic, we can use electricity as a signal. For example, we can read a digital input from an Arduino pin as "HIGH" (5V) and do something based on this information, in contrast to when it is 0V ("LOW").
 - Arduino pins also allow us to "write" or output binary values of 5V or 0V. Think back to when we used the 5 volt output as a power source for an LED. All of the digital pins can do the same thing--the difference is you can control this with code: you can tell the Arduino to supply 5V or 0V to a particular pin.
 - Digital inputs are binary, which means they only have two states. Analog inputs can have a range of values.
-- When we configure Arduino pins as inputs, it is important to use a pulldown (connected to ground) or pullup (connected to V+) resistor. This does a few things: 
-  - It protects your circuit from a short 
-  - It prevents a "floating ground", which is when there is no electrical connection to ground 
-  - It creates a path of resistance when the circuit is closed, so the arduino can read the voltage.
-- In order to see the values you're receiving with Arduino, use the Serial Monitor. In addition to introduce the serial monitor, the link shows how to include Serial.begin in your setup() function and Serial.println() in your loop in order to print digital values.
+
 
 #### Reading & Writing Digital Signals
 
@@ -25,6 +21,7 @@
   - It protects your circuit from a short
   - It prevents a "floating ground", which is when there is no electrical connection to ground
   - It creates a path of resistance when the circuit is closed, so the arduino can read the voltage
+- In order to see the values you're receiving with Arduino, use the Serial Monitor. In addition to introduce the serial monitor, the link shows how to include Serial.begin in your setup() function and Serial.println() in your loop in order to print digital values.
 
 ## In-class Circuits
 - [Working with an LED and a push button](https://create.arduino.cc/projecthub/SBR/working-with-an-led-and-a-push-button-71d8c1)
