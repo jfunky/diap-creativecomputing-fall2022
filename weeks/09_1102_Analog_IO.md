@@ -24,7 +24,9 @@
 - The **Modulation** part refers to varying the length of that width, the result being an average between 0V and 5V
 - Imagine a very short period of time (let's say 2 milliseconds) where 5V is supplied 25% of the time, and 0V is suppled for 75% of the time. The resulting voltage would be 1/4 of 5V, 1.25V. The period of time where the signal is "on" (5V) is the "pulse." The proportion of the time refers to the "width." The **"duty cycle"** is the total on-off measurement period (100%, in our example, 2 milliseconds).
   - In the diagram linnked in the title, this is the period between the green lines
-- Analog Output values written with the analogWrite() function in Arduino can be output on a scale of 0-255, such that 255 requests 100% of the duty cycle. In our example above, requesting 25% of the duty cycle would be analogWrite(64). 50% of the duty cycle would be analogWrite(127), and so on.
+- Analog Output values written with the [analogWrite()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/) function in Arduino 
+  - Output values can be 0-255, such that 255 requests 100% of the duty cycle. 
+  - In our example above, requesting 25% of the duty cycle would be analogWrite(64). 50% of the duty cycle would be analogWrite(127), and so on.
 
 #### [Fade an LED](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Fade)
 
@@ -57,8 +59,25 @@
 - Air quality sensor
 
 #### Voltage divider circuit
-- Now refer to the [Analog Read]((https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput) schematic with the photoresistor
+- Now refer to the [Analog Read](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput) schematic with the photoresistor
 - Two resistors in series like this create a [voltage divider](https://learn.sparkfun.com/tutorials/voltage-dividers/all)
 - To measure a variable resistor, the fixed resistor should be in the approximate same order of magnitude (match the range of the variable resistor)
 - The fixed resistor limits the voltage range, so you won’t get a full 0-1023 resolution, like with a potentiometer 
 - You can modify the code or the fixed resistor for a different range
+
+## Resources
+- ITP Notes
+  - [Sensors: the Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
+  - [Analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
+  - [Analog Output](https://itp.nyu.edu/physcomp/lessons/analog-output/)
+  - [Video: Analog Output (including PWM on an oscilloscope)](https://vimeo.com/372276550?embedded=true&source=video_title&owner=3661860)
+- [Arduino PWM Tutorial](https://create.arduino.cc/projecthub/muhammad-aqib/arduino-pwm-tutorial-ae9d71)
+- [Sparkfun PWM Tutorial](https://learn.sparkfun.com/tutorials/pulse-width-modulation/all)
+
+
+## Assignment
+- Use an analog input to control an analog output: 
+  - This can be as simple as controlling the fade of an LED with a potentiometer
+  - You can reference the following circuits from your kit: [Circ08](https://learn.adafruit.com/experimenters-guide-for-metro/circ08-intro), [Circ09](https://learn.adafruit.com/experimenters-guide-for-metro/circ09-intro), [Circ10](https://learn.adafruit.com/experimenters-guide-for-metro/circ10-intro), and [Circ13](https://learn.adafruit.com/experimenters-guide-for-metro/circ13-intro) in addition to the Arduino PWM tutorial linked under Resources
+
+
