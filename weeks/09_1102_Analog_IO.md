@@ -24,7 +24,7 @@
 - The **Modulation** part refers to varying the length of that width, the result being an average between 0V and 5V
 - Imagine a very short period of time (let's say 2 milliseconds) where 5V is supplied 25% of the time, and 0V is suppled for 75% of the time. The resulting voltage would be 1/4 of 5V, 1.25V. The period of time where the signal is "on" (5V) is the "pulse." The proportion of the time refers to the "width." The **"duty cycle"** is the total on-off measurement period (100%, in our example, 2 milliseconds).
   - In the diagram linnked in the title, this is the period between the green lines
-- Analog Output values written with the [analogWrite()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/) function in Arduino 
+- Analog Output values written with the [analogWrite](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/) function in Arduino 
   - Output values can be 0-255, such that 255 requests 100% of the duty cycle. 
   - In our example above, requesting 25% of the duty cycle would be analogWrite(64). 50% of the duty cycle would be analogWrite(127), and so on.
 
