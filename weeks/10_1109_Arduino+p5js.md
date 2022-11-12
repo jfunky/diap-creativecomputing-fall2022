@@ -15,8 +15,8 @@
     - For example, you will not be able to see the serial data coming in on your Arduino Serial Monitor and also in your p5.js sketch at the same time
 
 ## WebSerial
-- W3C has recently developed the [WebSerial API for Javascript](https://github.com/yoonbuck/p5.WebSerial/wiki/API#options), allowing communication between a computer's serial ports and the browser, where historically this has been limited & challenging for security reasons
-- In this class we will use [p5.WebSerial](https://github.com/yoonbuck/p5.WebSerial/wiki/API#options), which relies on the WebSerial API, to integrate Serial with p5.js sketches
+- W3C has recently developed the [WebSerial API for Javascript](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API), allowing communication between a computer's serial ports and the browser, where historically this has been limited & challenging for security reasons
+- In this class we will use [p5.WebSerial](https://github.com/yoonbuck/p5.WebSerial/wiki/API), which relies on the WebSerial API, to integrate Serial with p5.js sketches
 - We are familiar with Javascript event listeners from our experience with p5.js (for example, the mouseclick event)
 - Similarly, the WebSerial API and p5.js webserial library have events for is a serial port gets connected and disconnected
 - **Supported browsers** are Chrome, Edge, and Opera
