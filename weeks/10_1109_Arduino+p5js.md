@@ -32,6 +32,8 @@
 
 ## Resources
 - [P5 code from class](https://editor.p5js.org/jfunky/collections/5l-loFx2z)
+- [Handshaking Arduino code from class](https://create.arduino.cc/editor/jfunky7/11a3baff-fe3a-4e08-b0d1-6386fcdbccad/preview)
+- [Digital Output Arduino code from class](https://create.arduino.cc/editor/jfunky7/7d4dd1ef-8364-4df4-9aa7-838713293bc4/preview)
 - ITP:
     - [Serial Communication Videos](https://itp.nyu.edu/physcomp/videos/videos-serial-communication/#Serial_out_to_p5js_multi-part_ASCII)
     - [Intepreting Serial Data](https://itp.nyu.edu/physcomp/lessons/interpreting-serial-data/)
