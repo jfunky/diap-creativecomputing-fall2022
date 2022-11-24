@@ -124,3 +124,11 @@ The City College Faculty Senate has approved a procedure for addressing violatio
 * November 30: Workshop  
 * December 7: Workshop  
 * December 14: Final Presentations  
+
+#### Previous years
+[2021](https://github.com/jfunky/diap-creativecomputing-fa2021)
+[2020](https://github.com/jfunky/diap-creativecomputing-fa2020)
+[2019](https://jfunky.github.io/pcompdiap2019/)
+
+
+
